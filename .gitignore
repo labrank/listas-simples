@@ -1,0 +1,4 @@
+/.idea
+listas.iml
+/src/main/resources/application.properties
+*.properties
